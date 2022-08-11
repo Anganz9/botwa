@@ -1,10 +1,3 @@
-//═══════════════════════════════════════════════════════//
-//
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
-//
-//════════════════════════════//
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -29,8 +22,8 @@ global.ig = 'https://chat.whatsapp.com/LKmbdt3kuu23VmzRZYyUVF'
 global.region = 'Indonesia'
 global.sc = 'https://wa.me/message/R23F6S3OPNM4A1'
 global.myweb = 'https://github.com/Kianganz1'
-global.packname = 'ᓍ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧𝗭 ᓍ'
-global.author = '𝗠𝗢𝗗𝗭 𝗕𝗢𝗧𝗭'
+global.packname = 'CREATE BY\nMODZ BOTZ\n'
+global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
